@@ -68,7 +68,7 @@ The Python scripts are executed in **Google Colab**. Major libraries include:
 
 **Performance Analysis:**  
 - Overall markdown rate (labeling effectiveness) achieved: **54%**  
-- Highest sales peak: **Friday to Saturday**, influenced by label placement date  
+- Highest sales peak: **Thursday & Friday**, influenced by label placement date  
 - **80% of products sold within 0–1 days** of label placement  
 - Realized profit: **52%** of potential, recovering **14%** compared to initial profit  
 - Markdown rate by discount: relatively stable, most applied discount is **30%**  
