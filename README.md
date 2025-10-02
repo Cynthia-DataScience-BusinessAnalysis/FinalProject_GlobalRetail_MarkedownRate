@@ -75,7 +75,8 @@ The Python scripts are executed in **Google Colab**. Major libraries include:
 - Markdown rate by remaining shelf life: fluctuates between **41%–58%**, most products sold with **30–40% or 60–70%** of remaining shelf life  
 - Brand 2 stands out, representing **43% of total sales**  
 - Top SKUs: **227 and 105**, achieving markdown rates above average (**77% and 79%**)  
-- Labels are placed, on average, at **48% of product life**  
+- Labels are placed, on average, at **48% of product life**
+- Dashboard link: https://m365.cloud.microsoft/m365apps/1c4340de-2a85-40e5-8eb0-4f295368978b/?origindomain=Office&auth=2 
 
 **Predictive Modeling:**  
 - The **Random Forest** model outperformed the others across all metrics (ranging between **70% and 80%**).  
