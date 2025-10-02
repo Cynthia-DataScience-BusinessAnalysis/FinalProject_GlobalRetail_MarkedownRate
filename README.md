@@ -1,5 +1,5 @@
 # 📊 FinalProject_GlobalRetail_MarkedownRate
-Final project made during my Data Science and Business Analytics course, to a real customer. Goal: exploring and analyzing performance data through an interactive Power BI dashboard and build a classification model in Python, designed to predict product sales based on their specific attributes.
+Final project made during my Data Science and Business Analytics course, to a real customer. Goal: analyzing performance data building an interactive Power BI dashboard and a classification model in Python, designed to predict product sales based on their specific attributes.
 
 # 🏷️ Markdown Rate for Close-to-Expiration Products
 
