@@ -1,5 +1,6 @@
 # 📊 FinalProject_GlobalRetail_MarkedownRate
 Final project made during my Data Science and Business Analytics course, to a real customer. Goal: analyzing performance data building an interactive Power BI dashboard and a classification model in Python, designed to predict product sales based on their specific attributes.
+🎞️ Access to presentation: https://www.canva.com/design/DAGzKQWT3LY/UfYvt9Dw2ibpIu94Jfa6ow/edit?utm_content=DAGzKQWT3LY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 🏷️ Markdown Rate for Close-to-Expiration Products
 
@@ -26,6 +27,11 @@ Project Folder
 - Power BI/ # Power BI dashboard files
 - Python/ # Python scripts for data cleaning, modeling, and analysis
 - README.md # Project documentation
+
+## 🧹 Data Cleaning
+### 🎬 Actions:
+- Corrections, separations, transformations and droppings
+- Missing values and outliers treatment
 
 ## 🚀 Main Features
 ### 📊 Dashboard
